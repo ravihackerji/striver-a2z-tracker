@@ -1,0 +1,16 @@
+{
+  "steps": [],
+  "problems": [
+    {
+      "id": "s1-t01-p01",
+      "title": "Problem title",
+      "difficulty": "Easy",
+      "articleUrl": "https://takeuforward.org/...",
+      "videoUrl": "https://youtube.com/...",
+      "practiceUrl": "https://leetcode.com/...",
+      "tags": ["Array"],
+      "stepId": 1,
+      "topic": "Topic name"
+    }
+  ]
+}
